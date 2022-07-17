@@ -17,3 +17,5 @@ gibi kriterleri göz önüne alarak hangi hastalıklara yatkın olduğunun sapta
 
 -- Eğitim alanında öğrencileri doğru şeklilde sınıflayarak, öğrencilere verilecek eğitim türünün belirlenmesi, 
 ya da öğrencilerin eğitimden sonra üniversite seçimlerinde yardım etmek gibi alanlarda kullanılabilmektedir.
+
+(click to see my patika page)[https://app.patika.dev/zynps]
